@@ -1,0 +1,6 @@
+D:\FunCoding\Algorithms\FundamentalAlgorithms\Heaps\bin\Debug\Heaps.exe.config
+D:\FunCoding\Algorithms\FundamentalAlgorithms\Heaps\bin\Debug\Heaps.exe
+D:\FunCoding\Algorithms\FundamentalAlgorithms\Heaps\bin\Debug\Heaps.pdb
+D:\FunCoding\Algorithms\FundamentalAlgorithms\Heaps\obj\Debug\Heaps.csprojResolveAssemblyReference.cache
+D:\FunCoding\Algorithms\FundamentalAlgorithms\Heaps\obj\Debug\Heaps.exe
+D:\FunCoding\Algorithms\FundamentalAlgorithms\Heaps\obj\Debug\Heaps.pdb
