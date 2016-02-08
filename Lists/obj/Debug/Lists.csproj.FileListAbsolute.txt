@@ -1,0 +1,4 @@
+D:\FunCoding\AlgoPractice\FundamentalAlgorithms\Lists\bin\Debug\Lists.dll
+D:\FunCoding\AlgoPractice\FundamentalAlgorithms\Lists\bin\Debug\Lists.pdb
+D:\FunCoding\AlgoPractice\FundamentalAlgorithms\Lists\obj\Debug\Lists.dll
+D:\FunCoding\AlgoPractice\FundamentalAlgorithms\Lists\obj\Debug\Lists.pdb

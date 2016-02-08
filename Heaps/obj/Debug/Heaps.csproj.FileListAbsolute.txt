@@ -4,3 +4,9 @@ D:\FunCoding\Algorithms\FundamentalAlgorithms\Heaps\bin\Debug\Heaps.pdb
 D:\FunCoding\Algorithms\FundamentalAlgorithms\Heaps\obj\Debug\Heaps.csprojResolveAssemblyReference.cache
 D:\FunCoding\Algorithms\FundamentalAlgorithms\Heaps\obj\Debug\Heaps.exe
 D:\FunCoding\Algorithms\FundamentalAlgorithms\Heaps\obj\Debug\Heaps.pdb
+D:\FunCoding\AlgoPractice\FundamentalAlgorithms\Heaps\bin\Debug\Heaps.dll.config
+D:\FunCoding\AlgoPractice\FundamentalAlgorithms\Heaps\bin\Debug\Heaps.dll
+D:\FunCoding\AlgoPractice\FundamentalAlgorithms\Heaps\bin\Debug\Heaps.pdb
+D:\FunCoding\AlgoPractice\FundamentalAlgorithms\Heaps\obj\Debug\Heaps.csprojResolveAssemblyReference.cache
+D:\FunCoding\AlgoPractice\FundamentalAlgorithms\Heaps\obj\Debug\Heaps.dll
+D:\FunCoding\AlgoPractice\FundamentalAlgorithms\Heaps\obj\Debug\Heaps.pdb
