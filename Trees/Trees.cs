@@ -6,7 +6,30 @@ using System.Threading.Tasks;
 
 namespace Trees
 {
-    public class Trees
+    /*Abstract Data Types for Tree*/
+    public class Trees<T>
     {
+        private Node<T> root;
+
+        public Node<T> Root
+        {
+            get { return root; }
+        }
+
+        public void createTree() { 
+        
+                            
+        }
+
+        public Node<T> AddNode<T>(T data)
+        {
+            var node = new Node<T>();
+            node.Value = data;
+            node.LeftNode = null;
+            node.RightNode = null;
+            return node;
+        }
+
+        
     }
 }
