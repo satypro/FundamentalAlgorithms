@@ -2,3 +2,7 @@ D:\FunCoding\AlgoPractice\FundamentalAlgorithms\Queues\bin\Debug\Queues.dll
 D:\FunCoding\AlgoPractice\FundamentalAlgorithms\Queues\bin\Debug\Queues.pdb
 D:\FunCoding\AlgoPractice\FundamentalAlgorithms\Queues\obj\Debug\Queues.dll
 D:\FunCoding\AlgoPractice\FundamentalAlgorithms\Queues\obj\Debug\Queues.pdb
+D:\CodeFun\GITHUB\AlgorithmProject\FundamentalAlgorithms\Queues\bin\Debug\Queues.dll
+D:\CodeFun\GITHUB\AlgorithmProject\FundamentalAlgorithms\Queues\bin\Debug\Queues.pdb
+D:\CodeFun\GITHUB\AlgorithmProject\FundamentalAlgorithms\Queues\obj\Debug\Queues.dll
+D:\CodeFun\GITHUB\AlgorithmProject\FundamentalAlgorithms\Queues\obj\Debug\Queues.pdb

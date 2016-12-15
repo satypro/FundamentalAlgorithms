@@ -10,3 +10,9 @@ D:\FunCoding\AlgoPractice\FundamentalAlgorithms\Heaps\bin\Debug\Heaps.pdb
 D:\FunCoding\AlgoPractice\FundamentalAlgorithms\Heaps\obj\Debug\Heaps.csprojResolveAssemblyReference.cache
 D:\FunCoding\AlgoPractice\FundamentalAlgorithms\Heaps\obj\Debug\Heaps.dll
 D:\FunCoding\AlgoPractice\FundamentalAlgorithms\Heaps\obj\Debug\Heaps.pdb
+D:\CodeFun\GITHUB\AlgorithmProject\FundamentalAlgorithms\Heaps\obj\Debug\Heaps.csprojResolveAssemblyReference.cache
+D:\CodeFun\GITHUB\AlgorithmProject\FundamentalAlgorithms\Heaps\bin\Debug\Heaps.dll.config
+D:\CodeFun\GITHUB\AlgorithmProject\FundamentalAlgorithms\Heaps\bin\Debug\Heaps.dll
+D:\CodeFun\GITHUB\AlgorithmProject\FundamentalAlgorithms\Heaps\bin\Debug\Heaps.pdb
+D:\CodeFun\GITHUB\AlgorithmProject\FundamentalAlgorithms\Heaps\obj\Debug\Heaps.dll
+D:\CodeFun\GITHUB\AlgorithmProject\FundamentalAlgorithms\Heaps\obj\Debug\Heaps.pdb

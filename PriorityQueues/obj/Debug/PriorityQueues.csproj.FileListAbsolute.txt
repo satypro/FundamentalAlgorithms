@@ -3,3 +3,7 @@ D:\FunCoding\AlgoPractice\FundamentalAlgorithms\PriorityQueues\bin\Debug\Priorit
 D:\FunCoding\AlgoPractice\FundamentalAlgorithms\PriorityQueues\obj\Debug\PriorityQueues.csprojResolveAssemblyReference.cache
 D:\FunCoding\AlgoPractice\FundamentalAlgorithms\PriorityQueues\obj\Debug\PriorityQueues.dll
 D:\FunCoding\AlgoPractice\FundamentalAlgorithms\PriorityQueues\obj\Debug\PriorityQueues.pdb
+D:\CodeFun\GITHUB\AlgorithmProject\FundamentalAlgorithms\PriorityQueues\bin\Debug\PriorityQueues.dll
+D:\CodeFun\GITHUB\AlgorithmProject\FundamentalAlgorithms\PriorityQueues\bin\Debug\PriorityQueues.pdb
+D:\CodeFun\GITHUB\AlgorithmProject\FundamentalAlgorithms\PriorityQueues\obj\Debug\PriorityQueues.dll
+D:\CodeFun\GITHUB\AlgorithmProject\FundamentalAlgorithms\PriorityQueues\obj\Debug\PriorityQueues.pdb

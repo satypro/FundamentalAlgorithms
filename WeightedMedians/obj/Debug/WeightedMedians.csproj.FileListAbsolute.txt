@@ -2,3 +2,7 @@ D:\FunCoding\AlgoPractice\FundamentalAlgorithms\WeightedMedians\bin\Debug\Weight
 D:\FunCoding\AlgoPractice\FundamentalAlgorithms\WeightedMedians\bin\Debug\WeightedMedians.pdb
 D:\FunCoding\AlgoPractice\FundamentalAlgorithms\WeightedMedians\obj\Debug\WeightedMedians.dll
 D:\FunCoding\AlgoPractice\FundamentalAlgorithms\WeightedMedians\obj\Debug\WeightedMedians.pdb
+D:\CodeFun\GITHUB\AlgorithmProject\FundamentalAlgorithms\WeightedMedians\bin\Debug\WeightedMedians.dll
+D:\CodeFun\GITHUB\AlgorithmProject\FundamentalAlgorithms\WeightedMedians\bin\Debug\WeightedMedians.pdb
+D:\CodeFun\GITHUB\AlgorithmProject\FundamentalAlgorithms\WeightedMedians\obj\Debug\WeightedMedians.dll
+D:\CodeFun\GITHUB\AlgorithmProject\FundamentalAlgorithms\WeightedMedians\obj\Debug\WeightedMedians.pdb

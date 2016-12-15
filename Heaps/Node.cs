@@ -1,55 +1,59 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using System.Collections.Generic;
 
 namespace Heaps
 {
     public class Node<T>
     {
-        T data;
-        Node<T> leftChild;
-        Node<T> rightChild;
+        T _data;
+        Node<T> _leftChild;
+        Node<T> _rightChild;
 
         public Node<T> LeftChild
         {
-            get { return leftChild; }
-            set { leftChild = value; }
+            get { return _leftChild; }
+            set { _leftChild = value; }
         }
         
         public Node<T> RightChild
         {
-            get { return rightChild; }
-            set { rightChild = value; }
+            get { return _rightChild; }
+            set { _rightChild = value; }
         }
 
 
         public void AddRightChild(Node<T> node)
         {
-            this.rightChild = node;
+            _rightChild = node;
         }
 
         public void AddLeftChild(Node<T> node)
         {
-            this.leftChild = node;
+            _leftChild = node;
         }
 
         public Node<T> GetRightChild()
         {
-            return this.rightChild;
+            return _rightChild;
         }
 
         public Node<T> GetLeftChild()
         {
-            return this.leftChild;
+            return _leftChild;
         }
 
+        public T GetData()
+        {
+            return _data;
+        }
+
+        public void SetData(T data)
+        {
+            _data = data;
+        }
 
         public List<Node<T>> AllGetSiblings()
         {
             return null;
         }
-
     }
 }

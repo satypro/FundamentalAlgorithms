@@ -2,3 +2,7 @@ D:\FunCoding\AlgoPractice\FundamentalAlgorithms\Selection\bin\Debug\Selection.dl
 D:\FunCoding\AlgoPractice\FundamentalAlgorithms\Selection\bin\Debug\Selection.pdb
 D:\FunCoding\AlgoPractice\FundamentalAlgorithms\Selection\obj\Debug\Selection.dll
 D:\FunCoding\AlgoPractice\FundamentalAlgorithms\Selection\obj\Debug\Selection.pdb
+D:\CodeFun\GITHUB\AlgorithmProject\FundamentalAlgorithms\Selection\bin\Debug\Selection.dll
+D:\CodeFun\GITHUB\AlgorithmProject\FundamentalAlgorithms\Selection\bin\Debug\Selection.pdb
+D:\CodeFun\GITHUB\AlgorithmProject\FundamentalAlgorithms\Selection\obj\Debug\Selection.dll
+D:\CodeFun\GITHUB\AlgorithmProject\FundamentalAlgorithms\Selection\obj\Debug\Selection.pdb

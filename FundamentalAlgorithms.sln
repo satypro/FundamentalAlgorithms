@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2013
-VisualStudioVersion = 12.0.30110.0
+VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heaps", "Heaps\Heaps.csproj", "{E2E07867-6B81-4F34-8022-7672489E9056}"
 EndProject
@@ -36,6 +36,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trees", "Trees\Trees.csproj", "{3CF13ECF-BF2B-4CA1-9B89-FE135D2F58C8}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeightedMedians", "WeightedMedians\WeightedMedians.csproj", "{72A0D4E7-1CFB-4E21-B2AF-6CEAC7BDE4DA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trie", "Trie\Trie.csproj", "{C1613087-D01B-4FEF-9C8E-8196E9B96153}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -111,6 +113,10 @@ Global
 		{72A0D4E7-1CFB-4E21-B2AF-6CEAC7BDE4DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{72A0D4E7-1CFB-4E21-B2AF-6CEAC7BDE4DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{72A0D4E7-1CFB-4E21-B2AF-6CEAC7BDE4DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1613087-D01B-4FEF-9C8E-8196E9B96153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1613087-D01B-4FEF-9C8E-8196E9B96153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1613087-D01B-4FEF-9C8E-8196E9B96153}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1613087-D01B-4FEF-9C8E-8196E9B96153}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

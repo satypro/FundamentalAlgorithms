@@ -2,3 +2,7 @@ D:\FunCoding\AlgoPractice\FundamentalAlgorithms\MergeSort\bin\Debug\MergeSort.dl
 D:\FunCoding\AlgoPractice\FundamentalAlgorithms\MergeSort\bin\Debug\MergeSort.pdb
 D:\FunCoding\AlgoPractice\FundamentalAlgorithms\MergeSort\obj\Debug\MergeSort.dll
 D:\FunCoding\AlgoPractice\FundamentalAlgorithms\MergeSort\obj\Debug\MergeSort.pdb
+D:\CodeFun\GITHUB\AlgorithmProject\FundamentalAlgorithms\MergeSort\bin\Debug\MergeSort.dll
+D:\CodeFun\GITHUB\AlgorithmProject\FundamentalAlgorithms\MergeSort\bin\Debug\MergeSort.pdb
+D:\CodeFun\GITHUB\AlgorithmProject\FundamentalAlgorithms\MergeSort\obj\Debug\MergeSort.dll
+D:\CodeFun\GITHUB\AlgorithmProject\FundamentalAlgorithms\MergeSort\obj\Debug\MergeSort.pdb

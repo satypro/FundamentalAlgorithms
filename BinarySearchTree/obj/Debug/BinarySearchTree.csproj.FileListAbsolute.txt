@@ -2,3 +2,8 @@ D:\FunCoding\AlgoPractice\FundamentalAlgorithms\BinarySearchTree\bin\Debug\Binar
 D:\FunCoding\AlgoPractice\FundamentalAlgorithms\BinarySearchTree\bin\Debug\BinarySearchTree.pdb
 D:\FunCoding\AlgoPractice\FundamentalAlgorithms\BinarySearchTree\obj\Debug\BinarySearchTree.dll
 D:\FunCoding\AlgoPractice\FundamentalAlgorithms\BinarySearchTree\obj\Debug\BinarySearchTree.pdb
+D:\CodeFun\GITHUB\AlgorithmProject\FundamentalAlgorithms\BinarySearchTree\bin\Debug\BinarySearchTree.dll
+D:\CodeFun\GITHUB\AlgorithmProject\FundamentalAlgorithms\BinarySearchTree\bin\Debug\BinarySearchTree.pdb
+D:\CodeFun\GITHUB\AlgorithmProject\FundamentalAlgorithms\BinarySearchTree\obj\Debug\BinarySearchTree.csprojResolveAssemblyReference.cache
+D:\CodeFun\GITHUB\AlgorithmProject\FundamentalAlgorithms\BinarySearchTree\obj\Debug\BinarySearchTree.dll
+D:\CodeFun\GITHUB\AlgorithmProject\FundamentalAlgorithms\BinarySearchTree\obj\Debug\BinarySearchTree.pdb

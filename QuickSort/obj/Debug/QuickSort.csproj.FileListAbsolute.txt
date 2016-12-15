@@ -2,3 +2,7 @@ D:\FunCoding\AlgoPractice\FundamentalAlgorithms\QuickSort\bin\Debug\QuickSort.dl
 D:\FunCoding\AlgoPractice\FundamentalAlgorithms\QuickSort\bin\Debug\QuickSort.pdb
 D:\FunCoding\AlgoPractice\FundamentalAlgorithms\QuickSort\obj\Debug\QuickSort.dll
 D:\FunCoding\AlgoPractice\FundamentalAlgorithms\QuickSort\obj\Debug\QuickSort.pdb
+D:\CodeFun\GITHUB\AlgorithmProject\FundamentalAlgorithms\QuickSort\bin\Debug\QuickSort.dll
+D:\CodeFun\GITHUB\AlgorithmProject\FundamentalAlgorithms\QuickSort\bin\Debug\QuickSort.pdb
+D:\CodeFun\GITHUB\AlgorithmProject\FundamentalAlgorithms\QuickSort\obj\Debug\QuickSort.dll
+D:\CodeFun\GITHUB\AlgorithmProject\FundamentalAlgorithms\QuickSort\obj\Debug\QuickSort.pdb

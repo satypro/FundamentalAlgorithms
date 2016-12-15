@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Heaps
 {
-    public class Heaps
+    class MaxHeap
     {
     }
 }

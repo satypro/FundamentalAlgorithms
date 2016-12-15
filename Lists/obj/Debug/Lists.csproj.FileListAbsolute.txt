@@ -2,3 +2,8 @@ D:\FunCoding\AlgoPractice\FundamentalAlgorithms\Lists\bin\Debug\Lists.dll
 D:\FunCoding\AlgoPractice\FundamentalAlgorithms\Lists\bin\Debug\Lists.pdb
 D:\FunCoding\AlgoPractice\FundamentalAlgorithms\Lists\obj\Debug\Lists.dll
 D:\FunCoding\AlgoPractice\FundamentalAlgorithms\Lists\obj\Debug\Lists.pdb
+D:\CodeFun\GITHUB\AlgorithmProject\FundamentalAlgorithms\Lists\bin\Debug\Lists.dll
+D:\CodeFun\GITHUB\AlgorithmProject\FundamentalAlgorithms\Lists\bin\Debug\Lists.pdb
+D:\CodeFun\GITHUB\AlgorithmProject\FundamentalAlgorithms\Lists\obj\Debug\Lists.csprojResolveAssemblyReference.cache
+D:\CodeFun\GITHUB\AlgorithmProject\FundamentalAlgorithms\Lists\obj\Debug\Lists.dll
+D:\CodeFun\GITHUB\AlgorithmProject\FundamentalAlgorithms\Lists\obj\Debug\Lists.pdb

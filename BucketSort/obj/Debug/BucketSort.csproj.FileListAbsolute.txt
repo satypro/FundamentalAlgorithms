@@ -3,3 +3,8 @@ D:\FunCoding\AlgoPractice\FundamentalAlgorithms\BucketSort\bin\Debug\BucketSort.
 D:\FunCoding\AlgoPractice\FundamentalAlgorithms\BucketSort\obj\Debug\BucketSort.csprojResolveAssemblyReference.cache
 D:\FunCoding\AlgoPractice\FundamentalAlgorithms\BucketSort\obj\Debug\BucketSort.dll
 D:\FunCoding\AlgoPractice\FundamentalAlgorithms\BucketSort\obj\Debug\BucketSort.pdb
+D:\CodeFun\GITHUB\AlgorithmProject\FundamentalAlgorithms\BucketSort\bin\Debug\BucketSort.dll
+D:\CodeFun\GITHUB\AlgorithmProject\FundamentalAlgorithms\BucketSort\bin\Debug\BucketSort.pdb
+D:\CodeFun\GITHUB\AlgorithmProject\FundamentalAlgorithms\BucketSort\obj\Debug\BucketSort.csprojResolveAssemblyReference.cache
+D:\CodeFun\GITHUB\AlgorithmProject\FundamentalAlgorithms\BucketSort\obj\Debug\BucketSort.dll
+D:\CodeFun\GITHUB\AlgorithmProject\FundamentalAlgorithms\BucketSort\obj\Debug\BucketSort.pdb

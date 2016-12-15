@@ -3,3 +3,8 @@ D:\FunCoding\AlgoPractice\FundamentalAlgorithms\Graphs\bin\Debug\Graphs.pdb
 D:\FunCoding\AlgoPractice\FundamentalAlgorithms\Graphs\obj\Debug\Graphs.csprojResolveAssemblyReference.cache
 D:\FunCoding\AlgoPractice\FundamentalAlgorithms\Graphs\obj\Debug\Graphs.dll
 D:\FunCoding\AlgoPractice\FundamentalAlgorithms\Graphs\obj\Debug\Graphs.pdb
+D:\CodeFun\GITHUB\AlgorithmProject\FundamentalAlgorithms\Graphs\bin\Debug\Graphs.dll
+D:\CodeFun\GITHUB\AlgorithmProject\FundamentalAlgorithms\Graphs\bin\Debug\Graphs.pdb
+D:\CodeFun\GITHUB\AlgorithmProject\FundamentalAlgorithms\Graphs\obj\Debug\Graphs.csprojResolveAssemblyReference.cache
+D:\CodeFun\GITHUB\AlgorithmProject\FundamentalAlgorithms\Graphs\obj\Debug\Graphs.dll
+D:\CodeFun\GITHUB\AlgorithmProject\FundamentalAlgorithms\Graphs\obj\Debug\Graphs.pdb

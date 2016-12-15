@@ -2,3 +2,7 @@ D:\FunCoding\AlgoPractice\FundamentalAlgorithms\Stacks\bin\Debug\Stacks.dll
 D:\FunCoding\AlgoPractice\FundamentalAlgorithms\Stacks\bin\Debug\Stacks.pdb
 D:\FunCoding\AlgoPractice\FundamentalAlgorithms\Stacks\obj\Debug\Stacks.dll
 D:\FunCoding\AlgoPractice\FundamentalAlgorithms\Stacks\obj\Debug\Stacks.pdb
+D:\CodeFun\GITHUB\AlgorithmProject\FundamentalAlgorithms\Stacks\bin\Debug\Stacks.dll
+D:\CodeFun\GITHUB\AlgorithmProject\FundamentalAlgorithms\Stacks\bin\Debug\Stacks.pdb
+D:\CodeFun\GITHUB\AlgorithmProject\FundamentalAlgorithms\Stacks\obj\Debug\Stacks.dll
+D:\CodeFun\GITHUB\AlgorithmProject\FundamentalAlgorithms\Stacks\obj\Debug\Stacks.pdb
