@@ -39,6 +39,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WeightedMedians", "Weighted
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Trie", "Trie\Trie.csproj", "{C1613087-D01B-4FEF-9C8E-8196E9B96153}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AlgorithmTestProject", "AlgorithmTestProject\AlgorithmTestProject.csproj", "{2CBAC1C5-4DE7-47E5-ADA6-51EE4809B4D6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -117,6 +119,10 @@ Global
 		{C1613087-D01B-4FEF-9C8E-8196E9B96153}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1613087-D01B-4FEF-9C8E-8196E9B96153}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1613087-D01B-4FEF-9C8E-8196E9B96153}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2CBAC1C5-4DE7-47E5-ADA6-51EE4809B4D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2CBAC1C5-4DE7-47E5-ADA6-51EE4809B4D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2CBAC1C5-4DE7-47E5-ADA6-51EE4809B4D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2CBAC1C5-4DE7-47E5-ADA6-51EE4809B4D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
